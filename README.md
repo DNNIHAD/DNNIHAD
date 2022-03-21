@@ -31,7 +31,7 @@
 <a href="https://github.com/dnnihad"><img width=550 src="https://github-profile-trophy.vercel.app/?username=dnnihad&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/dnnihad"><img align="left" title="Github" alt="Github" width="30px" src="Dn/github.png" /></a>
-<a href="https://fb.com/DNNIHAD"><img align="left" title="Facebook" alt="Facebook" width="30px" src="Dn/facebook.png" /></a>
-<a href="https://m.me/DNNIHAD"><img align="left" title="Messenger" alt="Messenger" width="30px" src="Dn/messenger.png" /></a>
-<a href="https://www.instagram.com/DNNIHAD"><img align="left" title="Instagram" alt="Instagram" width="30px" src="Dn/instagram.png" /></a>
+<a href="https://github.com/dnnihad"><img align="left" title="Github" alt="Github" width="30px" src="DN/github.png" /></a>
+<a href="https://fb.com/DNNIHAD"><img align="left" title="Facebook" alt="Facebook" width="30px" src="DN/facebook.png" /></a>
+<a href="https://m.me/DNNIHAD"><img align="left" title="Messenger" alt="Messenger" width="30px" src="DN/messenger.png" /></a>
+<a href="https://www.instagram.com/DNNIHAD"><img align="left" title="Instagram" alt="Instagram" width="30px" src="DN/instagram.png" /></a>
