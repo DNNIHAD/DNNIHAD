@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=15&lines=Assalamualaikum+guys%2C+I+am+Mohammad+Alamin.;I+am+just+trying+to+learn+programming.)](https://github.com/AKXVAU)
 <br>
 
-<img src="https://avatars.githubusercontent.com/u/93329400?s=96&v=4" class="spinner" width="120" height="120" align="left">
+<img src="https://avatars.githubusercontent.com/u/101970745?s=400&u=31bc17fd099788443d23aa86ed0d8e2d25ffc557&v=4" class="spinner" width="120" height="120" align="left">
 <center>
    ## MY SOCIAL MEDIA<br>
    <a href="https://www.facebook.com/T0XICVIRUS" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/fb.png" alt="alt text" width="25" height="25"></a>
