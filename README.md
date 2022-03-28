@@ -21,26 +21,20 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](http://dnnihad.ml#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](http://dnnihad.ml#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/dnnihad#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/dnnihad#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/dnnihad#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/dnnihad#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/dnnihad#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/dnnihad#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/dnnihad#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/dnnihad#gh-dark-mode-only)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/dnnihad"><img width=550 src="https://github-profile-trophy.vercel.app/?username=dnnihad&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-
-<h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/dnnihad"><img align="left" title="Github" alt="Github" width="30px" src="DN/github.png" /></a>
-<a href="https://fb.com/DNNIHAD"><img align="left" title="Facebook" alt="Facebook" width="30px" src="DN/facebook.png" /></a>
-<a href="https://m.me/DNNIHAD"><img align="left" title="Messenger" alt="Messenger" width="30px" src="DN/messenger.png" /></a>
-<a href="https://www.instagram.com/DNNIHAD"><img align="left" title="Instagram" alt="Instagram" width="30px" src="DN/instagram.png" /></a>
