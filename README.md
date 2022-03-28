@@ -24,8 +24,8 @@
 [![website](./img/globe-light.svg)](http://dnnihad.ml#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](http://dnnihad.ml#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![YouTube](./img/youtube-light.svg)](https://youtube.com/dnnihad#gh-light-mode-only)
-[![YouTube](./img/youtube-dark.svg)](https://youtube.com/dnnihad#gh-dark-mode-only)
+[![YouTube](./img/youtube-light.svg)](https://youtube.com/channel/UCv1GtosBojsbCxew6irw5HQ#gh-light-mode-only)
+[![YouTube](./img/youtube-dark.svg)](https://youtube.com/channel/UCv1GtosBojsbCxew6irw5HQ#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Twitter](./img/twitter-light.svg)](https://twitter.com/dnnihad#gh-light-mode-only)
 [![Twitter](./img/twitter-dark.svg)](https://twitter.com/dnnihad#gh-dark-mode-only)
