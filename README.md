@@ -3,7 +3,6 @@
 <li> 👀 I’m interested in programming 😍</i></li>
 <li> 🐍 <i>Trying to learn Python & SQLI</i></li>
 <li> 😇 <i>Muslim</i></li>
-<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
 
 
 
