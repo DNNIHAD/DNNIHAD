@@ -18,6 +18,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/dnnihad/count.svg)
 
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/dnnihad"><img width=550 src="https://github-profile-trophy.vercel.app/?username=dnnihad&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 ### Connect with me:
 
@@ -35,6 +37,3 @@
 &nbsp;&nbsp;
 [![Instagram](./img/instagram-light.svg)](https://instagram.com/dnnihad#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://instagram.com/dnnihad#gh-dark-mode-only)
-
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/dnnihad"><img width=550 src="https://github-profile-trophy.vercel.app/?username=dnnihad&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
