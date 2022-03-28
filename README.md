@@ -17,12 +17,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/mail.png" width="25" height="25">  <a href = "mailto: txvirusx@gmail.com">Send Email</a><br><br>
 </p><br>
-## MY INFORMATIONS
-<img align="center" src="https://metrics.lecoq.io/AKXVAU">
-
-![AK27X stats](https://github-readme-stats.vercel.app/api?username=AKXVAU&show_icons=true&theme=dark)
-<br>
-
 
 
 
