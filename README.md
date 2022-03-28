@@ -1,7 +1,6 @@
 [![DEV1L N1H4D](https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=30&lines=HEY!+I'M+DN+NIHAD)](https://github.com/dnnihad)
-
-<img src="https://avatars.githubusercontent.com/u/101970745?s=400&u=31bc17fd099788443d23aa86ed0d8e2d25ffc557&v=4" class="spinner" width="120" height="120" align="left">
 <center>
+<img src="https://avatars.githubusercontent.com/u/101970745?s=400&u=31bc17fd099788443d23aa86ed0d8e2d25ffc557&v=4" class="spinner" width="120" height="120" align="left">
 
 
 
