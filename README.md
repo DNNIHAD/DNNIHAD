@@ -33,8 +33,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/dnnihad#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/dnnihad#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/dnnihad#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/dnnihad#gh-dark-mode-only)
+[![Instagram](./img/instagram-light.svg)](https://instagram.com/dnnihad#gh-light-mode-only)
+[![Instagram](./img/instagram-dark.svg)](https://instagram.com/dnnihad#gh-dark-mode-only)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/dnnihad"><img width=550 src="https://github-profile-trophy.vercel.app/?username=dnnihad&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
