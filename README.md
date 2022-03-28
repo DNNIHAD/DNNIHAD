@@ -1,4 +1,31 @@
 [![DEV1L N1H4D](https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=30&lines=HEY!+I'M+DN+NIHAD)](https://github.com/dnnihad)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=15&lines=Assalamualaikum+guys%2C+I+am+Mohammad+Alamin.;I+am+just+trying+to+learn+programming.)](https://github.com/AKXVAU)
+<br>
+
+<img src="https://avatars.githubusercontent.com/u/93329400?s=96&v=4" class="spinner" width="120" height="120" align="left">
+<center>
+   ## MY SOCIAL MEDIA<br>
+   <a href="https://www.facebook.com/T0XICVIRUS" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/fb.png" alt="alt text" width="25" height="25"></a>
+   <a href="http://txvirus.akxvau.ml" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/site.png" alt="alt text" width="25" height="25"></a>
+   <a href="https://t.me/txvirus"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/tg.png" alt="alt text" width="25" height="25"></a>
+</a><a href="https://Instagram.com/AKXVAU" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/insta.png" alt="alt text" width="25" height="25"></a>
+ <a href="https://twitter.com/AKXVAU" target="_blank"><img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/twit.png" alt="alt text" width="25" height="25"></a>
+&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
+ <br><br><hr>
+<div align="center">Contact With Me: <a href="https://FACEBOOK.com/AKXVAU"><b>Mohammad Alamin</a><br><br></div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/AKXVAU/AKXVAU/main/mail.png" width="25" height="25">  <a href = "mailto: txvirusx@gmail.com">Send Email</a><br><br>
+</p><br>
+## MY INFORMATIONS
+<img align="center" src="https://metrics.lecoq.io/AKXVAU">
+
+![AK27X stats](https://github-readme-stats.vercel.app/api?username=AKXVAU&show_icons=true&theme=dark)
+<br>
+
+
+
+
 <h3><b><i>KNOW MORE ABOUT ME :</i></b></h3>
 <li> 👀 I’m interested in programming 😍</i></li>
 <li> 🐍 <i>Trying to learn Python & SQLI</i></li>
