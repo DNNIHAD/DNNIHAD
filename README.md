@@ -1,5 +1,5 @@
 [![DEV1L N1H4D](https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=30&lines=HEY!+I'M+DN+NIHAD)](https://github.com/dnnihad)
-<h3><b><i>🤠 About me :</i></b></h3>
+<h3><b><i>KNOW MORE ABOUT ME:</i></b></h3>
 <li> 👀 I’m interested in programming 😍</i></li>
 <li> 🐍 <i>Trying to learn Python & SQLI</i></li>
 <li> 😇 <i>Muslim</i></li>
