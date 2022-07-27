@@ -4,6 +4,7 @@
 <h3><b><i>KNOW MORE ABOUT ME :</i></b></h3>
 <li> 👀 I’m interested in programming 😍</i></li>
 <li> 🤓 <i>Trying to learn</i></li>
+<li> 😝 <i>Love to learn something New</i></li>
 <li> 😇 <i>Muslim</i></li>
 
 
