@@ -1,4 +1,4 @@
-[![DEV1L N1H4D](https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=30&lines=HEY!+I'M+DN+NIHAD)](https://github.com/dnnihad)
+[![DN NIHAD](https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=30&lines=HEY!+I'M+DN+NIHAD)](https://github.com/dnnihad)
 
 
 <h3><b><i>KNOW MORE ABOUT ME :</i></b></h3>
