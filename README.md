@@ -38,4 +38,4 @@
 ## WAITING :
 
 <br>
-[![Visitor Count](https://komarev.com/ghpvc/?username=dnnihad&label=Visitors&color=blue&style=for-the-badge)]
+[![Visitor Count](https://komarev.com/ghpvc/?username=dnnihad&label=Visitors&color=blue&style=for-the-badge)](https://github.com/dnnihad)
