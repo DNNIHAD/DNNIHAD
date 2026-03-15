@@ -38,6 +38,4 @@
 ## WAITING :
 
 <br>
-
-![Visitor Count](https://profile-counter.glitch.me/dnnihad/count.svg)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=dnnihad&label=Visitors&color=blue&style=for-the-badge)
