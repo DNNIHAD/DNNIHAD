@@ -1,20 +1,33 @@
-# Project Title
+[![DN NIHAD](https://readme-typing-svg.herokuapp.com?color=%2300FF00&size=30&lines=HEY!+I'M+DN+NIHAD)](https://github.com/dnnihad)
 
-## Tech Stack
-- **Frontend:** React, Bootstrap
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
 
-## Features
-- Feature 1
-- Feature 2
+<h3><b><i>KNOW MORE ABOUT ME :</i></b></h3>
+<li> 👀 I’m interested in programming 😍</i></li>
+<li> 🤓 <i>Trying to learn</i></li>
+<li> 😝 <i>Love to learn something New</i></li>
+<li> 😇 <i>Muslim</i></li>
 
-## Social Media Badges
-[![GitHub](https://img.shields.io/badge/GitHub-DNNIHAD-brightgreen?style=flat-square)](https://github.com/DNNIHAD)
 
-## Better Layout
-- Use sections to categorize information clearly.
-- Provide concise descriptions for easier navigation.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+******************************************
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnnihad&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnnihad&layout=compact)](https://github.com/dnnihad)
+<br>
+### Connect with me:
+
+[![website](./img/globe-light.svg)](http://dnnihad.ml#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](http://dnnihad.ml#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![YouTube](./img/youtube-light.svg)](https://youtube.com/channel/UCv1GtosBojsbCxew6irw5HQ#gh-light-mode-only)
+[![YouTube](./img/youtube-dark.svg)](https://youtube.com/channel/UCv1GtosBojsbCxew6irw5HQ#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/dnnihad#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://twitter.com/dnnihad#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/dnnihad#gh-light-mode-only)
+[![Linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/dnnihad#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Instagram](./img/instagram-light.svg)](https://instagram.com/dnnihad#gh-light-mode-only)
+[![Instagram](./img/instagram-dark.svg)](https://instagram.com/dnnihad#gh-dark-mode-only)
